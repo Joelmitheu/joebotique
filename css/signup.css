@@ -1,0 +1,11 @@
+@import 'nav.css';
+*{
+    background: fixed;
+    box-sizing: border-box;
+}
+body{
+    background-color: gray;
+    text-align: left;
+    margin-right: auto;
+    margin: 10px 10px ;
+}
